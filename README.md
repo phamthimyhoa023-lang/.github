@@ -2,6 +2,7 @@
 •  Neon City: Gợi lên hình ảnh một đại đô thị tương lai, nơi bị bao phủ bởi bóng tối, những cơn mưa axit dai dẳng, và được thắp sáng rực rỡ bởi hàng triệu ánh đèn neon, biển quảng cáo Hologram khổng lồ từ các tập đoàn siêu quốc gia.
 •  Survivor: Là người đang phải tìm mọi cách để sinh tồn trong thế giới đó. Thành phố này không hề yên bình; nó đầy rẫy tội phạm công nghệ cao, robot sát thủ, sự phân hóa giàu nghèo cực đoan, và những con hẻm tối tăm bẩn thỉu ẩn sau vẻ hào nhoáng của ánh đèn màu.
 +Neon City Survivor, họ đang muốn nói rằng: "Tôi đang sống trong một thế giới hiện đại đầy áp lực, hỗn loạn và cám dỗ, nhưng tôi bản lĩnh, tôi thích nghi được và tôi sẽ là người chiến thắng (hoặc sống sót) đến cuối cùng." Cụm từ này rất hợp để làm tên bài hát, tựa game, nickname, hoặc một câu châm ngôn sống cực "ngầu".
+________________________________________
 ĐỀ TÀI MINI GAME: “Neon City Survivor”
 🎮 Ý tưởng game
 Bạn là một người sống trong thành phố tương lai “Neon City”.
