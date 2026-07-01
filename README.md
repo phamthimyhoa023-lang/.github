@@ -27,7 +27,8 @@ ________________________________________
 ✔ Undo hành động
 ✔ Inventory
 ✔ Thống kê điểm
- 
+
+________________________________________
 GIẢI THÍCH ĐỂ THUYẾT TRÌNH
 🎮 1. Ý tưởng game
 “Neon City Survivor” là game sinh tồn trong tương lai, người chơi:
