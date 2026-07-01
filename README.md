@@ -4,6 +4,7 @@
 +Neon City Survivor, họ đang muốn nói rằng: "Tôi đang sống trong một thế giới hiện đại đầy áp lực, hỗn loạn và cám dỗ, nhưng tôi bản lĩnh, tôi thích nghi được và tôi sẽ là người chiến thắng (hoặc sống sót) đến cuối cùng." Cụm từ này rất hợp để làm tên bài hát, tựa game, nickname, hoặc một câu châm ngôn sống cực "ngầu".
 ________________________________________
 ĐỀ TÀI MINI GAME: “Neon City Survivor”
+________________________________________
 🎮 Ý tưởng game
 Bạn là một người sống trong thành phố tương lai “Neon City”.
 Nhiệm vụ:
